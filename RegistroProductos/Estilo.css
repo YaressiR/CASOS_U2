@@ -1,0 +1,72 @@
+*{
+    background-color: rgb(235, 169, 107);
+}
+
+body {
+    padding-top: 0;
+    padding-bottom: 0;
+    font-family: tahoma;
+    font-size: 14px;
+
+}
+
+table {
+    border: 1px solid rgb(0, 0, 0);
+    margin: auto;
+    background-color: #7fb2f5;
+}
+
+img{ 
+    margin: auto; 
+    display: block; 
+} 
+
+td {
+    border: none;
+    background-color: #7fb2f5;
+}
+
+#a{
+    text-align: right;
+    font-weight: bold;
+    padding: 5px;
+}
+
+th {
+    border: 1px solid black;
+    background-color: #ffffff;
+}
+
+table { 
+   margin: auto;
+} 
+
+#resaltado{ 
+    font-family: 'trebuchet MS' ; 
+    font-size: 22px ; 
+} 
+
+#derecha{ 
+    text-align: right; 
+}
+
+#totales{ 
+ font-family: 'trebuchet MS' ; 
+ font-size: 22px ; 
+ text-align: right; 
+}
+
+#centrado {
+    text-align: center;
+}
+
+input{
+    background-color: aliceblue;
+    font-size: small;
+    font-weight: bold;
+}
+
+#btn {
+    background-color: #ffffff;
+    font-weight: bold;
+}
